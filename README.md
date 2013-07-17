@@ -1,7 +1,7 @@
 # Webhookr::Mailchimp
-[![Build Status](https://travis-ci.org/zoocasa/webhookr-mailchimp.png?branch=master)](https://travis-ci.org/zoocasa/webhookr-mailchimp)
-[![Dependency Status](https://gemnasium.com/zoocasa/webhookr-mailchimp.png)](https://gemnasium.com/zoocasa/webhookr-mailchimp)
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/zoocasa/webhookr-mailchimp)
+[![Build Status](https://travis-ci.org/gerrypower/webhookr-mailchimp.png?branch=master)](https://travis-ci.org/gerrypower/webhookr-mailchimp)
+[![Dependency Status](https://gemnasium.com/gerrypower/webhookr-mailchimp.png)](https://gemnasium.com/gerrypower/webhookr-mailchimp)
+[![Code Climate](https://codeclimate.com/repos/51e6e287c7f3a362d20170ba/badges/5f6e7aac63496982792b/gpa.png)](https://codeclimate.com/repos/51e6e287c7f3a362d20170ba/feed)
 
 This gem is a plugin for [Webhookr](https://github.com/zoocasa/webhookr) that enables
 your application to accept [webhooks from Mailchimp](http://apidocs.mailchimp.com/webhooks/).
